@@ -32,8 +32,8 @@ As a student, I wanted to create a *fully offline dictionary* that could:
 | pyttsx3           | Offline text-to-speech engine            |
 
 
-[Screenshot (10)](https://github.com/user-attachments/assets/5a811e4b-7d80-439a-99c9-a855829e0a9c)
-
+![App Screenshot](![Screenshot (10)](https://github.com/user-attachments/assets/cf11104f-a825-432d-9901-a7b16d2de7df)
+)
 
 ## ⚙ How to Run the Project
 
