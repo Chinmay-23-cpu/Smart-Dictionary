@@ -1,4 +1,4 @@
-📚 ##SMART DICTIONARY–WORD WISE##
+📚 SMART DICTIONARY–WORD WISE
 
 A student-friendly offline dictionary desktop application built using Python and CustomTkinter, designed to provide a clean, intuitive, and interactive vocabulary learning experience — even without an internet connection.
 
@@ -32,12 +32,8 @@ As a student, I wanted to create a *fully offline dictionary* that could:
 | pyttsx3           | Offline text-to-speech engine            |
 
 
-> ![screenshot](!(https://github.com/user-attachments/assets/9b375228-c6cc-40de-a54f-50061f227673))
-
-<p align="center">
-  <img src="!(https://github.com/user-attachments/assets/9b375228-c6cc-40de-a54f-50061f227673)" width="600"/>
-</p>
----
+![App Screenshot](![Screenshot (10)](https://github.com/user-attachments/assets/5a811e4b-7d80-439a-99c9-a855829e0a9c)
+)
 
 ## ⚙ How to Run the Project
 
