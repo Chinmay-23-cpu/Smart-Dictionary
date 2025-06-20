@@ -34,6 +34,9 @@ As a student, I wanted to create a *fully offline dictionary* that could:
 
 > ![screenshot](!(https://github.com/user-attachments/assets/9b375228-c6cc-40de-a54f-50061f227673))
 
+<p align="center">
+  <img src="!(https://github.com/user-attachments/assets/9b375228-c6cc-40de-a54f-50061f227673)" width="600"/>
+</p>
 ---
 
 ## ⚙ How to Run the Project
