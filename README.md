@@ -39,4 +39,11 @@ As a student, I wanted to create a *fully offline dictionary* that could:
 
 1. *Clone the repository* or download the .py file
    ```bash
-   git clone https://github.com/yourusername/Smart-Dictionary.git
+   git clone https://github.com/yourusername/Smart-Dictionary.git 
+2. *install required packages*: 
+   pip install nltk customtkinter pyttsx3 
+3. *Run the script*:
+   python smart_dictionary.py
+4. *First time only* - Download WordNet data
+   import nltk 
+   nltk.download('wordnet')
