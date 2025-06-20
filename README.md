@@ -1,4 +1,4 @@
-📚 SMART DICTIONARY – WORD WISE
+📚 ##SMART DICTIONARY–WORD WISE##
 
 A student-friendly offline dictionary desktop application built using Python and CustomTkinter, designed to provide a clean, intuitive, and interactive vocabulary learning experience — even without an internet connection.
 
